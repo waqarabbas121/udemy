@@ -1,0 +1,9 @@
+E:\Development\Web\ASP.NET\Udemy\DAL\bin\Debug\DAL.dll
+E:\Development\Web\ASP.NET\Udemy\DAL\bin\Debug\DAL.pdb
+E:\Development\Web\ASP.NET\Udemy\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Development\Web\ASP.NET\Udemy\DAL\obj\Debug\DAL.dll
+E:\Development\Web\ASP.NET\Udemy\DAL\obj\Debug\DAL.pdb
+E:\Development\Web\ASP.NET\Udemy\DAL\bin\Debug\Dapper.dll
+E:\Development\Web\ASP.NET\Udemy\DAL\bin\Debug\Dapper.xml
+E:\Development\Web\ASP.NET\Udemy\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Development\Web\ASP.NET\Udemy\DAL\obj\Debug\DAL.csprojAssemblyReference.cache

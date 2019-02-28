@@ -1,0 +1,14 @@
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\BLL.dll
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\BLL.pdb
+E:\Development\Web\ASP.NET\Udemy\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Development\Web\ASP.NET\Udemy\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Development\Web\ASP.NET\Udemy\BLL\obj\Debug\BLL.dll
+E:\Development\Web\ASP.NET\Udemy\BLL\obj\Debug\BLL.pdb
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\AutoMapper.dll
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\DAL.dll
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\System.ValueTuple.dll
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\DAL.pdb
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\AutoMapper.pdb
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\AutoMapper.xml
+E:\Development\Web\ASP.NET\Udemy\BLL\bin\Debug\System.ValueTuple.xml
+E:\Development\Web\ASP.NET\Udemy\BLL\obj\Debug\BLL.csproj.CopyComplete
